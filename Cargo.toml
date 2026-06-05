@@ -1,0 +1,6 @@
+[package]
+name = "ternary-experiment"
+version = "0.1.0"
+edition = "2021"
+description = "Lightweight experiment runner — sweep parameters sideways, collect results as floats, no overhead"
+license = "MIT"
